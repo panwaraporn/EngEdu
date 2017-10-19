@@ -14,7 +14,8 @@ namespace EngEdu
             Console.WriteLine("Year 255x semester 2, I am learn to program in C charp");
             Console.WriteLine("Year 2560 semester 1, I have to regrade on some course");
             Console.WriteLine("Year 2560 semester 2, I study hard");
-            
+            Console.WriteLine("Year 2561 semester 1, I am learn to program in c plusplus ");
+
         }
     }
 }
