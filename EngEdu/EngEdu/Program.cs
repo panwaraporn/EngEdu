@@ -11,6 +11,7 @@ namespace EngEdu
         static void Main(string[] args)
         {
             Console.WriteLine("Year 255x semester 1, I am an EngEdu freshman.");
+            Console.WriteLine("Year 255x semester 2, I am learn to program in C charp");
         }
     }
 }
